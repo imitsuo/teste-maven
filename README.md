@@ -12,7 +12,7 @@ A tag exibe todos os sql no console
 <property name="show_sql">true</property>
 
 Setado para recriar o banco
-<property name="hbm2ddl.auto">create</property>
+"<property name="hbm2ddl.auto">create</property>"
 
 Essas são as classes mapeadas:
 <mapping class="com.ike.domain.Fabricante" />
